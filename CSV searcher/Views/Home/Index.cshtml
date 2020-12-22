@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@Scripts.Render("~/bundles/modernizr")
+
+<div class="mb-3 pb-3">
+    @Html.ActionLink("Generate CSV", "Generate", "Home", new { @class = "btn btn-success btn-lg", @onclick = "$(this).attr('disabled',true)" })
+</div>
+@if (ViewBag.Updated == "Yes")
+{
+    <div class="alert alert-success" role="alert">
+        Data generated in the CSV Database, you can try to search some
+    </div>
+}
+<form action="@Url.Action("Search", "Home")" method="POST" id="action_role_form">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" id="value" required name="value" />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+<p class="text-muted">The search loading time may be vary depending on how vague the search</p>

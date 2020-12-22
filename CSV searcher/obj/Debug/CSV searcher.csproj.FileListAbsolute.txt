@@ -1,0 +1,87 @@
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\CSV searcher.dll.config
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\CSV searcher.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\CSV searcher.pdb
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\csc.exe
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\csc.exe.config
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\csc.rsp
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\csi.exe
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\csi.exe.config
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\csi.rsp
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.AppContext.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Console.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.IO.Compression.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Net.Http.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.ValueTuple.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\vbc.exe
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\vbc.exe.config
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\vbc.rsp
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\VBCSCompiler.exe
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\Antlr3.Runtime.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\Newtonsoft.Json.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.Helpers.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.Mvc.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.Optimization.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.Razor.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.WebPages.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.WebPages.Razor.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\WebGrease.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.Helpers.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.Mvc.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.Optimization.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.Razor.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.WebPages.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Web.WebPages.Razor.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\Newtonsoft.Json.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\Antlr3.Runtime.pdb
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\obj\Debug\CSV searcher.csprojAssemblyReference.cache
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\obj\Debug\CSV searcher.csproj.CoreCompileInputs.cache
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\obj\Debug\CSV searcher.csproj.CopyComplete
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\obj\Debug\CSV searcher.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\obj\Debug\CSV searcher.pdb
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Buffers.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Memory.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Numerics.Vectors.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Buffers.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Memory.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Numerics.Vectors.xml
+C:\Users\Morfonica\source\repos\CSV searcher\CSV searcher\bin\System.Runtime.CompilerServices.Unsafe.xml

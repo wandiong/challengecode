@@ -1,0 +1,25 @@
+﻿@model CSV_searcher.Controllers.HomeController.insert
+@{
+    ViewBag.Title = "Home Page";
+}
+@Scripts.Render("~/bundles/modernizr")
+
+<div class="input-group mb-3">
+    @Html.ActionLink("Back to Home", "Index", "Home", new { @class = "btn btn-success btn-lg", @onclick = "$(this).attr('disabled',true)" })
+</div>
+<p class="mx-3 text-muted">@Model.count rows out of 100000 rows that have the search result of @Model.searchVal </p>
+<table class="table table-bordered">
+    <tr>
+        <td>ID</td>
+        <td>String Content</td>
+        <td>Match Times</td>
+    </tr>
+        @foreach(var data in Model.list)
+        {
+            <tr>
+                <td>@data.id</td>
+                <td>@data.content</td>
+                <td>@data.matchTimes</td>
+            </tr>
+        }
+</table>
